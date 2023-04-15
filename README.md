@@ -1,4 +1,4 @@
-# Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners
+# AI-Powered 3D Website Using React and express
 ![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
 
 ## Introduction
